@@ -5,8 +5,12 @@ Setup and Running instructions:
 
 Firstly download the ZIP version from github then,
 Run the following commands on terminal:
->npm install (installs all dependencies)
->npm run dev (start the application)
+
+Install all dependencies
+>npm install
+
+Start the application
+>npm run dev
 
 # Overview of Project
 
