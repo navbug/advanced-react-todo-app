@@ -1,8 +1,18 @@
-# React + Vite
+# Advanced React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Note: For login:- Username: admin, Password: password
+Setup and Running instructions:
 
-Currently, two official plugins are available:
+Firstly download the ZIP version from github then,
+Run the following commands on terminal:
+>npm install (installs all dependencies)
+>npm run dev (start the application)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Overview of Project
+
+-> It is an advanced react todo app build using best coding practices and UI design principles.
+-> It uses React Redux(toolkit) for state management and Redux thunk for handling asynchronous actions.
+-> It simulates authentication using redux and also has protected routes to prevent unauthorized access.
+-> Graceful error handling and notification using react-hot-toast.
+-> Use of functional components and react hooks(useEffect, useState).
+-> Elegent and responsive UI design using tailwindCSS.
